@@ -2,7 +2,7 @@
 
 A collection of simple programs written in **Python, Java, and JavaScript**.
 
-> "Practice makes programming better!" 🚀
+> A place where you study
 
 ---
 
@@ -22,7 +22,7 @@ A collection of simple programs written in **Python, Java, and JavaScript**.
 
 ---
 
-## ☕ Java
+##  Java
 
 | Program | Description |
 |---|---|
@@ -38,7 +38,7 @@ A collection of simple programs written in **Python, Java, and JavaScript**.
 
 ---
 
-## 🌐 JavaScript
+## JavaScript
 
 | Program | Description |
 |---|---|
