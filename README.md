@@ -60,7 +60,7 @@ Python uses the `print()` function to display output.
 
 ```python
 print("Hello World")
-
+```
 ---
 
 
