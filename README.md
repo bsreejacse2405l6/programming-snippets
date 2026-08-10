@@ -1,31 +1,67 @@
 # 💻 Programming Snippets Library
 
-A collection of simple programs in **Python, Java, and JavaScript**.
+A collection of simple programs written in **Python, Java, and JavaScript**.
 
-> Practice coding every day to improve your programming skills! 🚀
+> "Practice makes programming better!" 🚀
 
 ---
 
 ## 🐍 Python
 
-### Programs
+| Program | Description |
+|---|---|
+| [Even Odd](python/evenodd.py) | Checks whether a number is even or odd |
+| [Factorial](python/fact.py) | Finds the factorial of a number |
+| [Hello World](python/helloworld.py) | Prints Hello World |
+
+### Python Programs
 
 - [Even Odd](python/evenodd.py)
 - [Factorial](python/fact.py)
 - [Hello World](python/helloworld.py)
 
+---
+
+## ☕ Java
+
 | Program | Description |
 |---|---|
-| Even Odd | Checks whether a number is even or odd |
-| Factorial | Finds the factorial of a number |
-| Hello World | Prints Hello World |
+| [Factorial](java/fac.java) | Finds the factorial of a number |
+| [Hello World](java/helloworld.java) | Prints Hello World |
+| [Palindrome](java/paindrome.java) | Checks whether a number is palindrome |
 
-### Code Example
+### Java Programs
+
+- [Factorial](java/fac.java)
+- [Hello World](java/helloworld.java)
+- [Palindrome](java/paindrome.java)
+
+---
+
+## 🌐 JavaScript
+
+| Program | Description |
+|---|---|
+| [Array Filter](javascript/arrayfilter.js) | Filters elements from an array |
+| [Factorial](javascript/factorial.js) | Finds the factorial of a number |
+| [Hello World](javascript/helloworld.js) | Prints Hello World |
+
+### JavaScript Programs
+
+- [Array Filter](javascript/arrayfilter.js)
+- [Factorial](javascript/factorial.js)
+- [Hello World](javascript/helloworld.js)
+
+---
+
+## 📝 Code Example
+
+Python uses the `print()` function to display output.
 
 ```python
-num = 10
+print("Hello World")
 
-if num % 2 == 0:
-    print("Even")
-else:
-    print("Odd")
+** Task list
+-[x] java programs
+-[x] -python programs
+-[x] - java script programs
