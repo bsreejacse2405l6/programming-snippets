@@ -64,17 +64,8 @@ print("Hello World")
 ---
 
 
-- [ ] java programs
-- [ ] python programs
-- [ ] java script programs
-
 ## ✅ Task List
 
-- [x]Create repository
+- [x] Create repository
 - [x] Create Python folder
-- [x] Create Java folder
-- [x] Create JavaScript folder
-- [x] Add programs
-- [x] Create README.md
 - [ ] Add more programs
-- [ ] Update README
