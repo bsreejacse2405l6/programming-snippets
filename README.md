@@ -68,7 +68,7 @@ print("Hello World")
 
 ## ✅ Task List
 
-- [x] Create repository
+- [x]Create repository
 - [x] Create Python folder
 - [x] Create Java folder
 - [x] Create JavaScript folder
